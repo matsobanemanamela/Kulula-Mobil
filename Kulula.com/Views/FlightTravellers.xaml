@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Kulula.com.ViewModels"
+             x:Class="Kulula.com.Views.FlightTravellers">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <controls:CardView>
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="#424242" WidthRequest="350" HasShadow="True">
+            <StackLayout>
+                <controls:CardView HasShadow="True" >
+                    <StackLayout Orientation="Vertical">
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Departing Airport :" FontAttributes="Bold"/>
+                            <Label x:Name="airpotname" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text=" Arrival Airport:" FontAttributes="Bold"/>
+                            <Label x:Name="arrival"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Number of travellers:" FontAttributes="Bold"/>
+                            <Label x:Name="NumberOfTravellers"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Departing Date:" FontAttributes="Bold"/>
+                            <Label x:Name="Departingdate"/>
+                        </StackLayout>
+                                <Button x:Name="cartview" Image="baseline_add_shopping_cart_black_18dp.png" BackgroundColor="#26a69a" BorderColor="#004d40" TextColor="White" WidthRequest="30" Opacity="0.5" BorderRadius="10" CornerRadius="20" Clicked="ShowPopup"/>
+                            </StackLayout>
+
+                </controls:CardView>
+            </StackLayout>
+        </Frame>
+            <Label Text="Who Are You flying With?" TextColor="Black" FontAttributes="Bold" FontSize="20"/>
+            <controls:CardView>
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+            <StackLayout>
+                <controls:CardView HasShadow="True" >
+                    <StackLayout>
+                        <StackLayout Orientation="Vertical">
+
+                            <Label Text="First name" TextColor="DimGray"/>
+                            <Entry x:Name="FirstName"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"
+                                   WidthRequest="140"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="Last name" TextColor="DimGray" />
+                            <Entry x:Name="LastName"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"
+                                   WidthRequest="160"/>
+
+                        </StackLayout>
+
+                        <StackLayout  Orientation="Vertical">
+
+                            <Label Text="Date of birth" TextColor="DimGray"/>
+                            <DatePicker Date="{Binding FromDate}" MaximumDate="{Binding FromMiminumDate}"  WidthRequest="140" DateSelected="DatePicker_DateSelected" />
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="Mobile number" TextColor="DimGray" />
+                            <Entry x:Name="MobileNumber"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"
+                                   WidthRequest="160"   
+                                   Keyboard="Numeric">
+                                <Entry.Behaviors>
+                                    <controls:Numericvalidation />
+                                </Entry.Behaviors>
+                            </Entry>
+
+                        </StackLayout>
+
+                        <StackLayout Orientation="Vertical">
+
+                            <Label Text="Gender" TextColor="DimGray"/>
+                            <Entry x:Name="Gender"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"
+                                   WidthRequest="140"/>
+                        </StackLayout>
+                        <StackLayout  Orientation="Vertical">
+                            <Label Text="Email" TextColor="DimGray" />
+                            <Entry x:Name="Email"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"
+                                   WidthRequest="160"/>
+
+                        </StackLayout>
+                        <Button Text="Submit" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="5" HeightRequest="30"  TextColor="OldLace" Clicked="Submit"/>
+                    </StackLayout>
+                </controls:CardView>
+                    <controls:CardView HasShadow="True">
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="5">
+                            <Button Text="CONTINUE TO SEAT SELECTION" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="290"  TextColor="OldLace" Clicked="Button_Clicked"   />
+                        </StackLayout>
+                    </controls:CardView>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

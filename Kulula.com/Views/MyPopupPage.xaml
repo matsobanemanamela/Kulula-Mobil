@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kulula.com.MyPopupPage"
+                 xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+                 xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                 xmlns:controls="clr-namespace:Kulula.com.ViewModels">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation DurationIn="400"
+                                   DurationOut="300"
+                                   EasingIn="SinOut"
+                                   EasingOut="SinIn"
+                                   HasBackgroundAnimation="True"
+                                   PositionIn="Center"
+                                   PositionOut="Center"
+                                   ScaleIn="1.2"
+                                   ScaleOut="0.8" />
+    </pages:PopupPage.Animation>
+    <!--  You can use any elements here which are extended from Xamarin.Forms.View  -->
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Select per person fare" FontAttributes="Bold" FontSize="20" TextColor="Black" HorizontalTextAlignment="Center" />
+            <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+                <StackLayout>
+                    <controls:CardView HasShadow="True" >
+                        <StackLayout>
+                            <Label Text="Standard" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center"/>
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="1 Bag @ 23kg" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="Non-Refundable" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="Traveller Meal" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="R399 + Fare Difference" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Button x:Name="Standard" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="5" HeightRequest="30"  TextColor="OldLace" Clicked="Standard_Tocart"/>
+                        </StackLayout>
+                    </controls:CardView>
+                </StackLayout>
+            </Frame>
+
+            <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+                <StackLayout>
+                    <controls:CardView HasShadow="True" >
+                        <StackLayout>
+                            <Label Text="Semi-Flex" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center"/>
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="1 Bag @ 23kg" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="50% Refund" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="Traveller Meal" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="R200 + Fare Difference" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Button x:Name="SemiFlexi" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="5" HeightRequest="30"  TextColor="OldLace" Clicked="Semiflex_Tocart"/>
+                        </StackLayout>
+                    </controls:CardView>
+                </StackLayout>
+            </Frame>
+
+
+            <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+                <StackLayout>
+                    <controls:CardView HasShadow="True" >
+                        <StackLayout>
+                            <Label Text="Fully-Flex" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center"/>
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="1 Bag @ 23kg" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="Refundable" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="Traveller Meal" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Label Text="Free and Unlimited plus Fare_Difference" FontSize="18" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" />
+                            <BoxView VerticalOptions="Center"
+                         HorizontalOptions="Center"
+                         HeightRequest="1"
+                         WidthRequest="650"
+                         Color="WhiteSmoke"></BoxView>
+                            <Button x:Name="FullyFlex" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="5" HeightRequest="30"  TextColor="OldLace" Clicked="Fullyflex_Tocart"/>
+                        </StackLayout>
+                    </controls:CardView>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</pages:PopupPage>

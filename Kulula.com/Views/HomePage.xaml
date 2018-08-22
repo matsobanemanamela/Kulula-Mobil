@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Kulula.com.Views"
+             x:Class="Kulula.com.Views.HomePage"
+            BarTextColor = "#26a69a"
+            BarBackgroundColor="Transparent"
+            xmlns:local1="clr-namespace:Kulula.com.ViewModels">
+    <ContentPage Title="Home" Icon="baseline_home_black_18dp.png" BackgroundImage="flightsky.jpg"    RelativeLayout.WidthConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                 RelativeLayout.HeightConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+
+      
+        <ContentPage.Content>
+            <local1:CardView HasShadow="True" OutlineColor="LightGray">
+
+
+                <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="5" Opacity="0.4" BackgroundColor="#9e9e9e" WidthRequest="350">
+
+                    <StackLayout>
+                        <Label Text="Search flights" FontFamily="Bahnschrift SemiBold Condensed" TextColor="Accent" FontSize="Large"  VerticalOptions="Center" HorizontalOptions="Center"></Label>
+                        <StackLayout Orientation="Horizontal">
+
+                            <Picker x:Name="flight_Departuresd"
+                              Title="Departing Flight"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding AirportName}"
+                             SelectedIndexChanged="flight_Departuresd_SelectedIndexChanged" 
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                        >
+                            </Picker >
+
+                            <Picker x:Name="flightarrivals"
+                                Title="Arrival Flight"
+                                   ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding AirportName}"
+                                WidthRequest="170"
+                                 FontAttributes="Bold"
+                                    >
+
+
+                            </Picker>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="Departing Date" TextColor="#263238" FontAttributes="Bold" VerticalTextAlignment="Center" />
+                            <DatePicker Date="{Binding FromDate}" MinimumDate="{Binding FromMiminumDate}" DateSelected="DatePicker_DateSelected"/>
+
+                     <!-- <Label Text="Return" TextColor="DimGray" FontAttributes="Bold"/>
+                            <DatePicker Date="{Binding ToDate}" MinimumDate="{Binding FromDate}" /> -->
+                        </StackLayout>
+                        <Label x:Name="txtDate" FontSize="14" TextColor="DimGray"/>
+                        <StackLayout Orientation="Horizontal">
+                            <Picker Title="Preffered Class"
+                                x:Name="PreferredClasss"
+                               SelectedIndexChanged="PreferredClasss_SelectedIndexChanged"
+                                    FontAttributes="Bold"
+                               >
+                            </Picker>
+                            <StackLayout  Orientation="Vertical">
+                                <Label Text="Number of Travellers" TextColor="#263238" FontAttributes="Bold"/>
+                                <Entry x:Name="AgeEntry"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"
+                                   Keyboard="Numeric"
+                                    FontAttributes="Bold">
+                                    <Entry.Behaviors>
+                                        <local1:Numericvalidation />
+                                    </Entry.Behaviors>
+                                </Entry>
+                            </StackLayout>
+                        </StackLayout>
+
+                        <Button Text="Search" Image="round_search_white_18dp.png" BackgroundColor="#004d40" BorderColor="#004d40" WidthRequest="10" HeightRequest="40" CornerRadius="20" TextColor="White" Clicked="Search" FontAttributes="Bold"/>
+                    </StackLayout>
+                </Frame>
+            </local1:CardView>
+            <!-- <ScrollView>
+                    <ListView x:Name="flight_Departuresd"
+              Margin="20"
+              HasUnevenRows="True">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Margin="15">
+                                        <Label Text="{Binding AirportName}" 
+                                   Font="Bold, 15"/>
+                                        <Label Text="{Binding DepartingDate}" Font="Bold"
+                                   TextColor="#89cff0"/>
+                                        <Label Text="{Binding DepartingTime }"/>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </ScrollView> -->
+        </ContentPage.Content>
+      
+    </ContentPage>
+   
+    <local:Profile></local:Profile>
+    <local:Search_Flight></local:Search_Flight>
+</TabbedPage>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Kulula.com"
+             xmlns:ViewModels="clr-namespace:Kulula.com.ViewModels"
+             x:Class="Kulula.com.MainPage">
+
+    <ContentPage.BindingContext>
+        <ViewModels:loginViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text=""></Label>
+            <Label Text=""></Label>
+            <Label Text=""></Label>
+            <Label Text=""></Label>
+            <Image Source="baseline_account_circle_black_18dp.png" HeightRequest="90"/>
+            <Label Text="Sign in to Kulula" FontAttributes="Bold" TextColor="DimGray" HorizontalTextAlignment="Center" FontSize="20" />
+
+            <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+            <StackLayout>
+                <ViewModels:CardView HasShadow="True" >
+
+                    <StackLayout>
+                        <StackLayout  Orientation="Vertical">
+                                <Label Text="Username" TextColor="DimGray" FontAttributes="Bold"/>
+                            <Entry Text="{Binding Username}"
+                                       Placeholder="Username"
+                                    VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"/>
+                        </StackLayout>
+                        <StackLayout  Orientation="Vertical">
+                            <Label Text="Password" TextColor="DimGray" FontAttributes="Bold"/>
+                            <Entry Text="{Binding Password}"
+                                  Placeholder="Password"
+                                    IsPassword="True"
+                                   VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"/>
+                        </StackLayout>
+                        <StackLayout  Orientation="Vertical">
+                                <Button Text="LogIn" Image="baseline_lock_open_black_18dp.png" BackgroundColor="#26a69a" BorderColor="#004d40" WidthRequest="10" HeightRequest="40" TextColor="White" Opacity="1" BorderRadius="10" CornerRadius="20"  Command="{Binding LoginCommand}"/>
+                            <!-- <Label Text="If you Dont have an Account click here" HorizontalOptions="Center" Grid.Row="4" Margin="0,14,0,0" FontSize="12"/>-->
+                                <Button Text="Register" BackgroundColor="#607d8b" TextColor="White" WidthRequest="30"  BorderRadius="10" CornerRadius="20"  Clicked="Create_Account_Clicked" />
+                        </StackLayout>
+                    </StackLayout>
+
+                </ViewModels:CardView>
+            </StackLayout>
+
+        </Frame>
+</StackLayout>
+    </ContentPage.Content>
+
+ 
+</ContentPage>

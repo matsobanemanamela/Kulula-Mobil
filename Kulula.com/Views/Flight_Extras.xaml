@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Kulula.com.ViewModels"
+             x:Class="Kulula.com.Views.Flight_Extras">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+                <controls:CardView >
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="" />
+                    </StackLayout>
+                </controls:CardView>
+                
+                <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="#424242" WidthRequest="350" HasShadow="True">
+                    <StackLayout>
+                        <controls:CardView HasShadow="True" >
+                            <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Departing Airport :" FontAttributes="Bold"/>
+                                    <Label x:Name="airpotname" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text=" Arrival Airport:" FontAttributes="Bold"/>
+                                    <Label x:Name="arrival"/>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Number of travellers:" FontAttributes="Bold"/>
+                                    <Label x:Name="NumberOfTravellers"/>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Departing Date:" FontAttributes="Bold"/>
+                                    <Label x:Name="Departingdate"/>
+                                </StackLayout>
+                                <Button  x:Name="cartview" Image="baseline_add_shopping_cart_black_18dp.png" BackgroundColor="#26a69a" BorderColor="#004d40" TextColor="White" WidthRequest="30" Opacity="0.5" BorderRadius="10" CornerRadius="20" Clicked="ShowPopup"/>
+                            </StackLayout>
+
+                        </controls:CardView>
+                    </StackLayout>
+                </Frame>
+                <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+                <controls:CardView >
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="Customise your flight(s) with these extras" FontAttributes="Bold" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="#263238"/>
+                    </StackLayout>
+                </controls:CardView>
+                <controls:CardView >
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="  We've handpicked these flight extras for you to make your trip as smooth as possible. You'll thank us later." FontAttributes="Bold" FontSize="12" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="#78909c"/>
+                    </StackLayout>
+                </controls:CardView>
+                <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+                <StackLayout>
+                <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="Gray" WidthRequest="250" HasShadow="True">
+                            <controls:CardView HasShadow="True">
+                            <FlexLayout Direction="Column">
+                                <Image Source="Flight_And_Bag_Cover.PNG" HeightRequest="90"/>
+
+                                <Label Text="Flight and bag Cover" 
+                                       VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"
+                                       FontAttributes="Bold"
+                                       TextColor="Black"/>
+                                <Label Text="Protect yourself from flight cancellation, missed flights and events, delays, lost baggage and more. Make sure you have the travel essentials covered."
+                                       FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"/>
+                                    <Label Text=" "/>
+                                    <Label x:Name="Flightbagcoverprice"  
+                                           FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center" />
+                                    <Label Text="per traveller, per flight"  
+                                           FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center" />
+                                    <Button Text="ADD FLIGHT AND BAG COVER " BackgroundColor="#00838f" BorderColor="#004d40"   TextColor="OldLace" Clicked="Flightbagcover" />
+
+                            </FlexLayout>
+                        </controls:CardView>
+                    </Frame>
+                        <controls:CardView >
+                            <StackLayout Orientation="Horizontal" Padding="5">
+                                <Label Text="" />
+                            </StackLayout>
+                        </controls:CardView>
+                        <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="Gray" WidthRequest="250" HasShadow="True">
+                            <controls:CardView HasShadow="True" >
+                            <FlexLayout Direction="Column">
+                                <Image Source="Extra_Bags.PNG" HeightRequest="90"/>
+                                <Label Text="Extra bags" 
+                                       VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"
+                                       FontAttributes="Bold"
+                                       TextColor="Black"/>
+                                <Label Text="Avoid excess baggage or heavy bag charges at the airport. Buy an extra 20kg baggage allowance online and save 25%."
+                                       FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"/>
+                                    <Label Text=" "/>
+                                    <Label x:Name="Extrabagsprice"
+                                                 FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"/>
+                                    <Label Text="per bag, per flight"  
+                                           FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center" />
+                                    <Button Text="ADD EXTRAS BAGS" BackgroundColor="#00838f" BorderColor="#004d40"  TextColor="OldLace" Clicked="Extrabags"/>
+                            </FlexLayout>
+                        </controls:CardView>
+                    </Frame>
+                        <controls:CardView >
+                            <StackLayout Orientation="Horizontal" Padding="5">
+                                <Label Text="" />
+                            </StackLayout>
+                        </controls:CardView>
+                        <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="Gray" WidthRequest="250" HasShadow="True">
+                            <controls:CardView HasShadow="True">
+                                <FlexLayout Direction="Column">
+                                    <Image Source="Slow_XS_Lounge.PNG" HeightRequest="90"/>
+                                    <Label Text="SLOW XS Lounge" 
+                                       VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"
+                                       FontAttributes="Bold"
+                                       TextColor="Black"
+                                        />
+                                    <Label Text="Refuel, refresh, work and rest in this modern lounge with free Wi-Fi, cosy work and snooze spots, delicious treats and more."
+                                       FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"/>
+                                    <Label Text=" "/>
+                                    <Label x:Name="slowxsloungeprice"
+                                                 FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center"/>
+                                    <Label Text="per person"  
+                                           FontSize="14"
+                                        VerticalTextAlignment="Center"
+                                       HorizontalTextAlignment="Center" />
+                                    <Button Text="ADD SLOW XS LOUNGE" BackgroundColor="#00838f" BorderColor="#004d40"   TextColor="OldLace" Clicked="SLOWXSLounge" />
+                                </FlexLayout>
+                            </controls:CardView>
+                        </Frame>
+                        <controls:CardView HasShadow="True" >
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="5">
+                                <Button Text="CONTINUE TO PAYMENT" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="250"  TextColor="OldLace" Clicked="Button_Clicked"/>
+                            </StackLayout>
+                        </controls:CardView>
+                    </StackLayout>
+            </Frame>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

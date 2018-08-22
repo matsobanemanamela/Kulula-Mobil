@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Kulula.com.ViewModels"
+             xmlns:local="clr-namespace:Kulula.com.Views"
+             x:Class="Kulula.com.Views.Economy">
+
+ 
+    <ContentPage.Content>
+        <StackLayout>
+            <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+
+            <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="#424242" WidthRequest="350" HasShadow="True">
+                <StackLayout>
+                    <controls:CardView HasShadow="True" >
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Departing Airport :" FontAttributes="Bold"/>
+                                <Label x:Name="airpotname" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text=" Arrival Airport:" FontAttributes="Bold"/>
+                            <Label x:Name="arrival"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Number of travellers:" FontAttributes="Bold"/>
+                                <Label x:Name="NumberOfTravellers"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Departing Date:" FontAttributes="Bold"/>
+                                <Label x:Name="Departingdate"/>
+                            </StackLayout>
+                        </StackLayout>
+                        
+                    </controls:CardView>
+                </StackLayout>
+            </Frame>
+            <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <controls:CardView >
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="" />
+                </StackLayout>
+            </controls:CardView>
+            <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="25"  Opacity="1" BackgroundColor="WhiteSmoke" WidthRequest="350" HasShadow="True">
+                <StackLayout>
+                    <controls:CardView HasShadow="True" >
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Departing Date:" FontAttributes="Bold"/>
+                                <Label x:Name="date" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Departing Time:" FontAttributes="Bold"/>
+                                <Label x:Name="DepartTime"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Arrival Time" FontAttributes="Bold"/>
+                                <Label x:Name="ArrivalTime"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Aircraft:" FontAttributes="Bold"/>
+                                <Label x:Name="aircraftname"/>
+                            </StackLayout>
+                            <Button Text="Click here to Select Economy classes " BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="5" HeightRequest="50" CornerRadius="15" TextColor="OldLace" Clicked="ShowPopup"/>
+                        </StackLayout>
+
+                    </controls:CardView>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+       
+    </ContentPage.Content>
+ 
+</ContentPage>

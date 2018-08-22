@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:Kulula.com.ViewModels"
+
+             x:Class="Kulula.com.Views.RegitrationPage"
+             >
+    
+  
+    <ContentPage.BindingContext>
+        <ViewModels:RegisterViewModel/>
+    </ContentPage.BindingContext>
+    
+   <!-- <Image Source="image\airplane_sky_flight_clouds_height.jpg"/>-->
+
+    <ContentPage.Content>
+       
+        <ScrollView Orientation="Vertical">
+            <StackLayout Margin="10,20,10,0" BackgroundColor="#f5f5f5">
+
+                <Label Text="Create Account" 
+                       FontSize="Medium"/>
+
+                <Entry Text="{Binding SelectedCustomer.Firstname}"
+                       Placeholder="First Name"/>
+                <Entry Text="{Binding SelectedCustomer.Lastname}"
+                    Placeholder="Last Name"/>
+                <Entry Text="{Binding SelectedCustomer.dateofbirth}"
+                       Placeholder="date of birth" />
+                <Entry Text="{Binding SelectedCustomer.Gender}"
+                        Placeholder="Gender"/>
+                <Entry Text="{Binding SelectedCustomer.MobileNumbers}"
+                       Placeholder="Mobile Number"/>
+                <Entry Text="{Binding SelectedCustomer.Email}"
+                       Placeholder="Email"/>
+                <Entry Text="{Binding SelectedCustomer.UserName}"
+                       Placeholder="UserName"/>
+                <Entry Text="{Binding SelectedCustomer.Password}"
+                     IsPassword="True"  Placeholder="Password"/>
+                <Button Text="REGISTER"
+                        TextColor="White"
+                        BackgroundColor="#26a69a"
+                         CornerRadius="10"
+                        Command="{Binding RegisterCommand}"/>
+                <ViewModels:CardView HasShadow="True" OutlineColor="LightGray">
+                    <Button Text="Go Back To SignIn"
+                    Clicked="Sign_IN_Clicked"
+                    BackgroundColor="Transparent"
+                    CornerRadius="10"
+                    TextColor="#0b79bf"
+                    BorderColor="#0b79bf"
+                   />
+                </ViewModels:CardView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

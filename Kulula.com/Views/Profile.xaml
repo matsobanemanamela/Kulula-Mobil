@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kulula.com.Views.Profile"
+             xmlns:viewModels="clr-namespace:Kulula.com.ViewModels"
+              Title="Profile" 
+             Icon="icons8adminsettingsmalefilled50.png">
+    <ContentPage.BindingContext>
+        <viewModels:UpdateProfileViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Button">
+                <Setter Property="BorderRadius" Value="20"/>
+                <Setter Property="BorderWidth" Value="2"/>
+                <Setter Property="BackgroundColor" Value="#0b79bf"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <ScrollView Orientation="Vertical">
+            <StackLayout Margin="10,20,10,0" BackgroundColor="#f5f5f5">
+                <Label Text="Update Profile" 
+                       Font="Bold, 30"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.Firstname}"
+                       Placeholder="First Name"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.Lastname}"
+                    Placeholder="Last Name"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.dateofbirth}"
+                       Placeholder="Email Address" />
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.Email}"
+                        Placeholder="Email"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.Gender}"
+                       Placeholder="Mobile Number"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.MobileNumbers}"
+                       Placeholder="Gender"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.UserName}"
+                       Placeholder="Birthday"/>
+                <Entry Margin="10,0,10,0" Text="{Binding SelectedCustomer.Password}"
+                       IsPassword="True" Placeholder="Password"/>
+                <viewModels:CardView HasShadow="True" OutlineColor="LightGray">
+                    <Button Margin="10,0,10,0" Text="UPDATE"
+                        TextColor="LimeGreen"
+                        BackgroundColor="Transparent"
+                        BorderColor="#004d40"
+                        Command="{Binding UpdateCommand}"/>
+                </viewModels:CardView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+   <!-- <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>-->
+</ContentPage>

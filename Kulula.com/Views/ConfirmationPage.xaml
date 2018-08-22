@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Kulula.com.ViewModels"
+             x:Class="Kulula.com.Views.ConfirmationPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <controls:CardView>
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text=" " FontAttributes="Bold" FontSize="20"/>
+                </StackLayout>
+            </controls:CardView>
+
+                <controls:CardView>
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text=" " FontAttributes="Bold" FontSize="20"/>
+                    </StackLayout>
+                </controls:CardView>
+                <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+                <controls:CardView HasShadow="True">
+                <StackLayout>
+                        <Label x:Name="Thanks"
+                           TextColor="DarkGreen"
+                           FontSize="16"
+                           />
+                    </StackLayout>
+                </controls:CardView>
+            </Frame>
+
+            <controls:CardView HasShadow="True">
+                <StackLayout Orientation="Horizontal" Padding="5">
+                    <Label Text="Your trip details"  FontAttributes="Bold" FontSize="18" TextColor="DarkGreen"/>
+                </StackLayout>
+            </controls:CardView>
+          
+            <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+
+                <controls:CardView HasShadow="True">
+                    <StackLayout Orientation="Vertical">
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label x:Name="flightconfirmation" FontSize="12" FontAttributes="Bold" />
+                    </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Departing Date:" FontAttributes="Bold" FontSize="12"/>
+                            <Label x:Name="date" FontSize="12"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Departing Time:" FontAttributes="Bold" FontSize="12"/>
+                            <Label x:Name="DepartTime" FontSize="12"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Departing Airport :" FontAttributes="Bold" FontSize="12"/>
+                            <Label x:Name="airpotname" FontSize="12"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Arrival Time" FontAttributes="Bold" FontSize="12"/>
+                            <Label x:Name="ArrivalTime" FontSize="12"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text=" Arrival Airport:" FontAttributes="Bold" FontSize="12"/>
+                            <Label x:Name="arrival" FontSize="12"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Aircraft:" FontAttributes="Bold" FontSize="12"/>
+                            <Label x:Name="aircraftname" FontSize="12"/>
+                        </StackLayout>
+                        <Label Text=" "/>
+                            <StackLayout>
+                                <Label Text="Payment details"  FontAttributes="Bold" FontSize="18" TextColor="Black"/>
+                                <StackLayout Orientation="Horizontal">
+                                <Image Source="accepted_c22e0.png"/>
+                                    <Label x:Name="Credit"/>
+                                </StackLayout>
+                                <!--</StackLayout>
+                            <ListView x:Name="flight_Departuresd" HasUnevenRows="true"  SelectionMode="None">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <ViewCell.View>
+                                                <StackLayout Padding="15,5,5,5" Orientation="Horizontal">
+                                                    <Label Text="{Binding Firstname}" />
+                                                    <Label Text="{Binding Lastname}" />
+                                                </StackLayout>
+                                            </ViewCell.View>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView> -->
+                            </StackLayout>
+                            <Label Text=" "/>
+                            <StackLayout>
+                                <Label Text="Booking summary"  FontAttributes="Bold" FontSize="18" TextColor="Black"/>
+                            </StackLayout>
+                            <Label Text=" "/>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Fares:" FontAttributes="Bold" FontSize="12"/>
+                                <Label x:Name="Fares" FontSize="12"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Total Amount:" FontAttributes="Bold" FontSize="12"/>
+                                <Label x:Name="TotalAmount" FontSize="12"/>
+                            </StackLayout>
+
+                            <Button Text="Confirm" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="5" HeightRequest="30"  TextColor="OldLace" Clicked="Button_Clicked"/>
+                        </StackLayout>
+                       
+                    </controls:CardView>
+               
+            </Frame>
+          
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

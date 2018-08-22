@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.Kulula.com" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_APPWIDGET" />
+	<uses-permission android:name="android.permission.BIND_AUTOFILL_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_CARRIER_MESSAGING_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_CARRIER_SERVICES" />
+	<uses-permission android:name="android.permission.BIND_CHOOSER_TARGET_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_CONDITION_PROVIDER_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_DEVICE_ADMIN" />
+	<uses-permission android:name="android.permission.BIND_DREAM_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_INCALL_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_INPUT_METHOD" />
+	<uses-permission android:name="android.permission.BIND_MIDI_DEVICE_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_NFC_SERVICE" />
+	<uses-permission android:name="android.permission.BIND_VPN_SERVICE" />
+	<application android:label="Kulula.com.Android"></application>
+</manifest>

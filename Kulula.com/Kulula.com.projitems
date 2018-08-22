@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{C49F15F5-9329-41FA-A3F3-52A70B9D416A}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Kulula.com</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)MainPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\Settings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Aircraft.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Cart.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CreditCard.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Customer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\FlightArrival.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\FlightBooking.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\FlightExtra.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\FlightTravellerDetail.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Flight_Departure.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\InternetPaymentSID.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Payments.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\PreferredClass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\SeatSelectionModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\BusinessPopupPage.xaml.cs">
+      <DependentUpon>BusinessPopupPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ConfirmationPage.xaml.cs">
+      <DependentUpon>ConfirmationPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\FlightTravellers.xaml.cs">
+      <DependentUpon>FlightTravellers.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Flight_Extras.xaml.cs">
+      <DependentUpon>Flight_Extras.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MyPopupPage.xaml.cs">
+      <DependentUpon>MyPopupPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Services\AircraftService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\CartService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\CreditCardService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\FlightArrivalService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\FlightBookingService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\FlightExtras.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\FlightTravellerDetailsService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\Flight_DepartureService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\InternetPaymentSIDService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\PaymentService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\PreferredClassService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\SeatSelectionService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\UserService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)splash.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\CardDataViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\CardView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\datepicker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\HomePageView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\loginViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Numericvalidation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\RegisterViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\UpdateProfileViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Business.xaml.cs">
+      <DependentUpon>Business.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Economy.xaml.cs">
+      <DependentUpon>Economy.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Payment.xaml.cs">
+      <DependentUpon>Payment.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Profile.xaml.cs">
+      <DependentUpon>Profile.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\RegitrationPage.xaml.cs">
+      <DependentUpon>RegitrationPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Search_Flight.xaml.cs">
+      <DependentUpon>Search_Flight.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\SeatSelection.xaml.cs">
+      <DependentUpon>SeatSelection.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Viewcartpopup.xaml.cs">
+      <DependentUpon>Viewcartpopup.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\RegitrationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\HomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Profile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Search_Flight.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Business.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Economy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MyPopupPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\BusinessPopupPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\FlightTravellers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Flight_Extras.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Payment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\SeatSelection.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ConfirmationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Viewcartpopup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

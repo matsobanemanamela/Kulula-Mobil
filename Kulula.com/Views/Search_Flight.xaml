@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kulula.com.Views.Search_Flight"
+             Title="Flights" 
+             Icon="iconsairplanetakeoff50.png"
+             BackgroundImage="mandela.jpg"
+              xmlns:local1="clr-namespace:Kulula.com.ViewModels">
+    <ContentPage.Content>
+        <Frame HorizontalOptions="Center" VerticalOptions="Center" Padding="5" Opacity="0.5" BackgroundColor="#9e9e9e" WidthRequest="350" HasShadow="True">
+            <StackLayout>
+                <Label Text="Search flights" FontFamily="Bahnschrift SemiBold Condensed" TextColor="Accent" FontSize="Large"  VerticalOptions="Center" HorizontalOptions="Center"></Label>
+                <StackLayout Orientation="Horizontal">
+
+                    <Picker x:Name="flight_Departuresd"
+                              Title="Departing Flight"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding AirportName}"
+                             SelectedIndexChanged="flight_Departuresd_SelectedIndexChanged" 
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                        >
+                    </Picker >
+
+                    <Picker x:Name="flightarrivals"
+                                Title="Arrival Flight"
+                                   ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding AirportName}"
+                                WidthRequest="170"
+                            FontAttributes="Bold">
+
+
+                    </Picker>
+                </StackLayout>
+                <StackLayout Orientation="Vertical">
+                    <Label Text="Departing Date" TextColor="DimGray" FontAttributes="Bold" VerticalTextAlignment="Center"   />
+                    <DatePicker Date="{Binding FromDate}" MinimumDate="{Binding FromMiminumDate}" DateSelected="DatePicker_DateSelected" FontAttributes="Bold"/>
+
+                  <!--  <Label Text="Return" TextColor="DimGray" FontAttributes="Bold"/>
+                    <DatePicker Date="{Binding ToDate}" MinimumDate="{Binding FromDate}" />-->
+                </StackLayout>
+                <Label x:Name="txtDate" FontSize="14"/>
+                <StackLayout Orientation="Horizontal">
+                    <Picker Title="Preffered Class"
+                                x:Name="PreferredClasss"
+                               SelectedIndexChanged="PreferredClasss_SelectedIndexChanged"  
+                                HeightRequest="50"
+                                WidthRequest="170"
+                            FontAttributes="Bold">
+
+
+                    </Picker>
+                    <StackLayout  Orientation="Vertical">
+                        <Label Text="Number of Travellers" TextColor="DimGray" FontAttributes="Bold"/>
+                        <Entry x:Name="AgeEntry"
+                           VerticalOptions="FillAndExpand"
+                           HorizontalOptions="FillAndExpand"
+                           Keyboard="Numeric"
+                               FontAttributes="Bold">
+                            <Entry.Behaviors>
+                                <local1:Numericvalidation />
+                            </Entry.Behaviors>
+                        </Entry>
+                    </StackLayout>
+                </StackLayout>
+
+                <Button Text="Search" Image="round_search_white_18dp.png" BackgroundColor="#00897b" BorderColor="#004d40" WidthRequest="10" HeightRequest="40" CornerRadius="20" TextColor="White" Clicked="Search" FontAttributes="Bold"/>
+            </StackLayout>
+        </Frame>
+    </ContentPage.Content>
+</ContentPage>

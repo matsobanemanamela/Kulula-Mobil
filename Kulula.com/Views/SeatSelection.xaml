@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Kulula.com.ViewModels"
+             x:Class="Kulula.com.Views.SeatSelection">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <controls:CardView >
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="" />
+                    </StackLayout>
+                </controls:CardView>
+                <controls:CardView >
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="" />
+                    </StackLayout>
+                </controls:CardView>
+                <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="#424242" WidthRequest="350" HasShadow="True" >
+                    <StackLayout>
+                        <controls:CardView HasShadow="True" >
+                            <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Departing Airport :" FontAttributes="Bold"/>
+                                    <Label x:Name="airpotname" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text=" Arrival Airport:" FontAttributes="Bold"/>
+                                    <Label x:Name="arrival"/>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Number of travellers:" FontAttributes="Bold"/>
+                                    <Label x:Name="NumberOfTravellers"/>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Departing Date:" FontAttributes="Bold"/>
+                                    <Label x:Name="Departingdate"/>
+                                </StackLayout>
+                                <Button x:Name="cartview" Image="baseline_add_shopping_cart_black_18dp.png" BackgroundColor="#26a69a" BorderColor="#004d40" TextColor="White" WidthRequest="30" Opacity="0.5" BorderRadius="10" CornerRadius="20" Clicked="ShowPopup"/>
+                            </StackLayout>
+
+                        </controls:CardView>
+                    </StackLayout>
+                </Frame>
+                <controls:CardView>
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Label Text="" />
+                    </StackLayout>
+                </controls:CardView>
+                <controls:CardView>
+                    <StackLayout Orientation="Vertical" Padding="5">
+                        <Label Text="SEAT SELECTION" FontAttributes="Bold" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="#006064 "/>
+                    </StackLayout>
+                </controls:CardView>
+                <Frame HorizontalOptions="Center" VerticalOptions="Start" Padding="25"  Opacity="1" BackgroundColor="white" WidthRequest="350" HasShadow="True">
+                    <controls:CardView HasShadow="True">
+                    <StackLayout>
+                        
+                        
+                        
+                        
+                        <Label x:Name="getspecifiedFrontRow" />
+
+                            <Picker x:Name="flight_Departuresd"
+                              Title="view FontRow Seat"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding SeatNumber}"
+                             SelectedIndexChanged="flight_Departuresd_SelectedIndexChanged" 
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        >
+                            </Picker >
+                            <Label x:Name="getspecifiedstandardfront"/>
+                            <Picker x:Name="StandardFonts"
+                              Title="view StandardFont Seat"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding SeatNumber}"
+                             SelectedIndexChanged="StandardFonts_SelectedIndexChanged"   
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        >
+                            </Picker >
+                            <Label x:Name="getspecifiedstretchzone" />
+                            
+                            <Picker x:Name="stretchzones"
+                              Title="view stretchzone Seat"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding SeatNumber}"
+                             SelectedIndexChanged="stretchzones_SelectedIndexChanged" 
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        >
+                            </Picker >
+                            
+                            <Label x:Name="getspecifiedExitRow" />
+                            <Picker x:Name="existsrow"
+                              Title="view ExitRow Seat"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding SeatNumber}"
+                             SelectedIndexChanged="existsrow_SelectedIndexChanged"   
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        >
+                            </Picker >
+                            <Label x:Name="getspecifiedstandardBack"/>
+                            <Label Text=""/>
+                            <Picker x:Name="standrdbacks"
+                              Title="view ExitRow Seat"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding SeatNumber}"
+                             SelectedIndexChanged="standrdbacks_SelectedIndexChanged"    
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        >
+                            </Picker >
+                            <Label Text="Please Select Flight Seats To Puchase Below:"/>
+                            <Picker x:Name="AllSeat"
+                              Title="Select Flight Seats To Puchase"
+                             ItemsSource="{Binding picker}"
+                             ItemDisplayBinding="{Binding SeatNumber}"
+                             SelectedIndexChanged="AllSeat_SelectedIndexChanged"
+                             WidthRequest="170"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        >
+                            </Picker >
+                            <Label Text=" "/>
+                            <Button Text="ADD TO CART" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="250"  TextColor="OldLace" Clicked="Button_Cart_Submit_Seat"/>
+                        </StackLayout>
+                    </controls:CardView>
+
+                </Frame>
+                <controls:CardView HasShadow="True">
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="5">
+                        <Button Text="CONTINUE TO FLIGHT EXTRAS" BackgroundColor="#00838f" BorderColor="#004d40" WidthRequest="290"  TextColor="OldLace" Clicked="Button_FlghtExtras" />
+                    </StackLayout>
+                </controls:CardView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
