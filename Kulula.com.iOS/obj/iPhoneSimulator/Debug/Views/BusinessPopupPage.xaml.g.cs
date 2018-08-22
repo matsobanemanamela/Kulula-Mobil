@@ -13,8 +13,8 @@
 namespace Kulula.com.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Matsobane project\\Kulula.com\\Kulula.com\\Kulula.com\\Vie" +
-        "ws\\BusinessPopupPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Kulula-Mobile\\Kulula.com\\Kulula.com\\Views\\BusinessPopu" +
+        "pPage.xaml")]
     public partial class BusinessPopupPage : global::Rg.Plugins.Popup.Pages.PopupPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

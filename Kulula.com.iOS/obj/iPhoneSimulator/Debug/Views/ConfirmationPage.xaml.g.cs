@@ -13,8 +13,8 @@
 namespace Kulula.com.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Matsobane project\\Kulula.com\\Kulula.com\\Kulula.com\\Vie" +
-        "ws\\ConfirmationPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Kulula-Mobile\\Kulula.com\\Kulula.com\\Views\\Confirmation" +
+        "Page.xaml")]
     public partial class ConfirmationPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

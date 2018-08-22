@@ -13,8 +13,8 @@
 namespace Kulula.com.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Matsobane project\\Kulula.com\\Kulula.com\\Kulula.com\\Vie" +
-        "ws\\SeatSelection.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Kulula-Mobile\\Kulula.com\\Kulula.com\\Views\\SeatSelectio" +
+        "n.xaml")]
     public partial class SeatSelection : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

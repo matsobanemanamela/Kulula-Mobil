@@ -1,127 +1,127 @@
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Kulula.com.iOS.exe
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Kulula.com.iOS.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\LH.BottomBar.XamarinForms.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\MailKit.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Formatting.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Microsoft.Net.Http.Headers.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\BouncyCastle.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\MimeKit.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.Bson.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Algorithms.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Encoding.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Messaging.Abstractions.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Messaging.Abstractions.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Messaging.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Settings.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.SimplePing.iOS.dll
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_home_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_flight_takeoff_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_delete_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_add_shopping_cart_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_account_circle_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_accessibility_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\logo.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\sid-instant-eft-logo-2018 (1).png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\sid-instant-eft-logo-2018.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\airline.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_lock_open_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_perm_identity_black_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\iconsairplanetakeoff50.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\icons8adminsettingsmalefilled50.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Kulula.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\round_search_white_18dp.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Slow_XS_Lounge.PNG
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Extra_Bags.PNG
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Flight_And_Bag_Cover.PNG
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\accepted_c22e0.png
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\RegitrationPage.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\HomePage.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Profile.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Search_Flight.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Business.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Economy.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\MyPopupPage.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\BusinessPopupPage.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\FlightTravellers.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Flight_Extras.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Payment.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\SeatSelection.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\ConfirmationPage.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Viewcartpopup.xaml.g.cs
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.csproj.CoreCompileInputs.cache
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.csproj.CopyComplete
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.exe
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.pdb
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.csprojAssemblyReference.cache
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Kulula.com.iOS.exe
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Kulula.com.iOS.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\LH.BottomBar.XamarinForms.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\MailKit.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Formatting.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\BouncyCastle.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\MimeKit.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Messaging.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Plugin.Settings.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\bin\iPhoneSimulator\Debug\Xamarin.SimplePing.iOS.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_home_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_flight_takeoff_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_delete_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_add_shopping_cart_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_account_circle_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_accessibility_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\logo.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\sid-instant-eft-logo-2018 (1).png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\sid-instant-eft-logo-2018.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\airline.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_lock_open_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\baseline_perm_identity_black_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\iconsairplanetakeoff50.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\icons8adminsettingsmalefilled50.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Kulula.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\round_search_white_18dp.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Slow_XS_Lounge.PNG
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Extra_Bags.PNG
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\Flight_And_Bag_Cover.PNG
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\accepted_c22e0.png
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\RegitrationPage.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\HomePage.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Profile.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Search_Flight.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Business.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Economy.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\MyPopupPage.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\BusinessPopupPage.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\FlightTravellers.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Flight_Extras.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Payment.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\SeatSelection.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\ConfirmationPage.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Views\Viewcartpopup.xaml.g.cs
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.csproj.CopyComplete
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.exe
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.pdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.iOS\obj\iPhoneSimulator\Debug\Kulula.com.iOS.csprojAssemblyReference.cache

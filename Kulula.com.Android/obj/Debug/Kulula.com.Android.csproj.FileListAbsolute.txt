@@ -69,7 +69,6 @@ C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.An
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\bin\Debug\Xamarin.iOS.xml
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\Kulula.com.Android.csproj.CopyComplete
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\Kulula.com.Android.csprojAssemblyReference.cache
-C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\bin\Debug\Kulula.com.Android.dll
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\bin\Debug\Mono.Android.pdb
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\bin\Debug\Mono.Android.Export.pdb
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\bin\Debug\mscorlib.pdb
@@ -154,3 +153,6 @@ C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.An
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\linksrc\Plugin.Messaging.dll.mdb
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
 C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.Android\obj\Debug\Kulula.com.Android.csprojAssemblyReference.cache
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.Android\obj\Debug\Kulula.com.Android.dll
+C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.Android\obj\Debug\Kulula.com.Android.pdb

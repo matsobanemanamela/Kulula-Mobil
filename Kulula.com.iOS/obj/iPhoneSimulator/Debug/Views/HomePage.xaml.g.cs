@@ -13,8 +13,8 @@
 namespace Kulula.com.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Matsobane project\\Kulula.com\\Kulula.com\\Kulula.com\\Vie" +
-        "ws\\HomePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Kulula-Mobile\\Kulula.com\\Kulula.com\\Views\\HomePage.xam" +
+        "l")]
     public partial class HomePage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

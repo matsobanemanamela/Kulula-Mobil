@@ -13,8 +13,8 @@
 namespace Kulula.com {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Matsobane project\\Kulula.com\\Kulula.com\\Kulula.com\\Vie" +
-        "ws\\MyPopupPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Reverside\\Desktop\\Kulula-Mobile\\Kulula.com\\Kulula.com\\Views\\MyPopupPage." +
+        "xaml")]
     public partial class MyPopupPage : global::Rg.Plugins.Popup.Pages.PopupPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

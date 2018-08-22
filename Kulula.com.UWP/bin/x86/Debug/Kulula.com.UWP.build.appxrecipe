@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=155a4566-3727-4897-9213-9490dd960c43</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Kulula.com.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Kulula.com.UWP.exe">
       <PackagePath>entrypoint\Kulula.com.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Reverside\.nuget\packages\lh.bottomnavigationbar.xf\1.0.42\lib\netstandard1.4\LH.BottomBar.XamarinForms.dll">
@@ -601,190 +601,190 @@
     <AppxPackagedFile Include="C:\Users\Reverside\.nuget\packages\xamarin.forms\3.1.0.697729\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\accepted_c22e0.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\accepted_c22e0.png">
       <PackagePath>Assets\accepted_c22e0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\airline.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\airline.png">
       <PackagePath>Assets\airline.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Extra_Bags.PNG">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Extra_Bags.PNG">
       <PackagePath>Assets\Extra_Bags.PNG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Flight_And_Bag_Cover.PNG">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Flight_And_Bag_Cover.PNG">
       <PackagePath>Assets\Flight_And_Bag_Cover.PNG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\icons8-airplane-take-off-50.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\icons8-airplane-take-off-50.png">
       <PackagePath>Assets\icons8-airplane-take-off-50.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\icons8adminsettingsmalefilled50.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\icons8adminsettingsmalefilled50.png">
       <PackagePath>Assets\icons8adminsettingsmalefilled50.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\logo.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\logo.png">
       <PackagePath>Assets\logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\sid-instant-eft-logo-2018 %281%29.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\sid-instant-eft-logo-2018 %281%29.png">
       <PackagePath>Assets\sid-instant-eft-logo-2018 %281%29.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\sid-instant-eft-logo-2018.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\sid-instant-eft-logo-2018.png">
       <PackagePath>Assets\sid-instant-eft-logo-2018.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Slow_XS_Lounge.PNG">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Slow_XS_Lounge.PNG">
       <PackagePath>Assets\Slow_XS_Lounge.PNG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\airplane_sky_flight_clouds_height.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\airplane_sky_flight_clouds_height.jpg">
       <PackagePath>Assets\airplane_sky_flight_clouds_height.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Amex-icon.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Amex-icon.jpg">
       <PackagePath>Assets\Amex-icon.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\clouds.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\clouds.jpg">
       <PackagePath>Assets\clouds.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\download.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\download.jpg">
       <PackagePath>Assets\download.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\extra-bags.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\extra-bags.jpg">
       <PackagePath>Assets\extra-bags.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\flightsky.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\flightsky.jpg">
       <PackagePath>Assets\flightsky.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\Flight_above_the_clouds.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\Flight_above_the_clouds.jpg">
       <PackagePath>Assets\Flight_above_the_clouds.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\insurance.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\insurance.jpg">
       <PackagePath>Assets\insurance.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\kululaLogo.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\kululaLogo.jpg">
       <PackagePath>Assets\kululaLogo.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\planelanding.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\planelanding.jpg">
       <PackagePath>Assets\planelanding.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\pre-paid-seat.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\pre-paid-seat.jpg">
       <PackagePath>Assets\pre-paid-seat.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Assets\pretoria.jpg">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Assets\pretoria.jpg">
       <PackagePath>Assets\pretoria.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Kulula.com.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Kulula.com.UWP.xr.xml">
       <PackagePath>Kulula.com.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
@@ -826,11 +826,11 @@
     <AppxPackagedFile Include="C:\Users\Reverside\.nuget\packages\xamarin.forms\3.1.0.697729\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Core\Kulula.com.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Reverside\Desktop\Kulula-Mobile\Kulula.com\Kulula.com.UWP\bin\x86\Debug\Core\Kulula.com.UWP.exe">
       <PackagePath>Kulula.com.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

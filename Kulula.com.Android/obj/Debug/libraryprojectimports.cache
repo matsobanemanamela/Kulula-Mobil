@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>obj\Debug\lp\5\jl\formsviewgroup.jar</Jar>
-    <Jar>obj\Debug\lp\38\jl\arch-core-common.jar</Jar>
-    <Jar>obj\Debug\lp\39\jl\arch-lifecycle-common.jar</Jar>
-    <Jar>obj\Debug\lp\42\jl\support-annotations.jar</Jar>
-    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\38\jl\arch-core-common.jar</Jar>
-    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\39\jl\arch-lifecycle-common.jar</Jar>
-    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\40\jl\bin\classes.jar</Jar>
+    <Jar>obj\Debug\lp\7\jl\formsviewgroup.jar</Jar>
+    <Jar>obj\Debug\lp\39\jl\arch-core-common.jar</Jar>
+    <Jar>obj\Debug\lp\40\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>obj\Debug\lp\43\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\39\jl\arch-core-common.jar</Jar>
+    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\40\jl\arch-lifecycle-common.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\41\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\42\jl\support-annotations.jar</Jar>
-    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\43\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\42\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\43\jl\support-annotations.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\44\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\45\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\46\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\47\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\48\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\49\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\5\jl\formsviewgroup.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\50\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\51\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\52\jl\bin\classes.jar</Jar>
@@ -25,40 +23,42 @@
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\54\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\55\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\56\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\57\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\7\jl\formsviewgroup.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\0\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\2\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\15\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\43\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\46\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\48\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\4\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\17\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\44\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\47\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\49\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\50\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\51\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\52\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\53\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\55\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\54\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\56\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\lp\0\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\lp\2\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\lp\15\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\lp\50\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\4\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\17\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\51\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\0.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\2.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\15.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\43.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\46.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\48.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\17.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\44.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\47.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\49.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\50.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\51.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\52.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\53.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\55.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\54.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Reverside\Desktop\Matsobane project\Kulula.com\Kulula.com\Kulula.com.Android\obj\Debug\lp\56.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
