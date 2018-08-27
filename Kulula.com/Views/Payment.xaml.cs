@@ -153,7 +153,7 @@ namespace Kulula.com.Views
                mail.To.Add(emails);
                mail.Subject = subject;
                mail.Body = body;
-               smtpServer.Credentials = new NetworkCredential("matsobanemanamela@gmail.com", "07225309A");
+               smtpServer.Credentials = new NetworkCredential("Username", "password");
                smtpServer.UseDefaultCredentials = false;
                smtpServer.EnableSsl = true;
                smtpServer.Send(mail);
